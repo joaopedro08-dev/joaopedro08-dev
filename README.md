@@ -22,11 +22,11 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 #### 🧱 Languages and Technologies
 I build robust and modern solutions with these tools:  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" title="JavaScript" alt="JavaScript icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" title="PHP" alt="PHP icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" title="TypeScript" alt="TypeScript icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" title="HTML5" alt="HTML5 icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" title="CSS3" alt="CSS3 icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" title="JavaScript" alt="JavaScript icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" title="TypeScript" alt="TypeScript icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" title="PHP" alt="PHP icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" title="Java" alt="Java icon"/>
 </div>
 
