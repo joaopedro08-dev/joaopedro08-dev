@@ -2,8 +2,8 @@
 
 I am a developer passionate about technology, always looking to learn and create creative solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=radical&hide=issues&include_all_commits=true&alt="GitHub stats for João Pedro")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&theme=radical&langs_count=6&alt="Top programming languages used by João Pedro")
 ---
 
 ### 🚀 Skills
