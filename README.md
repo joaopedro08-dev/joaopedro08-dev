@@ -1,4 +1,4 @@
-## Hi there my name is João Pedro 
+# Hello, my name is João Pedro
 
 <!--
 **joaopedro08-dev/joaopedro08-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
