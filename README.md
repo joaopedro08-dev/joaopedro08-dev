@@ -2,7 +2,7 @@
 
 I'm a Brazilian developer passionate about crafting technology solutions that make life easier, with a focus on intuitive interfaces and efficient systems.
 
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&theme=dark&show_icons=true&hide=issues&include_all_commits=true&alt="GitHub stats for João Pedro")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaopedro08-dev=anuraghazra&theme=dark&show_icons=true)
 ![João Pedro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&theme=dark&langs_count=6&alt="Top programming languages used by João Pedro")
 
 ---
