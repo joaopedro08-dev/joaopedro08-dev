@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm João Pedro
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar soluções criativas. 
+I am a developer passionate about technology, always looking to learn and create creative solutions.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
