@@ -53,6 +53,7 @@ I manage data efficiently with:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" title="MySQL" alt="MySQL icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL" alt="PostgreSQL icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB" alt="MongoDB icon"/>
 </div>
 
 #### 🛠️ Tools
