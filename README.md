@@ -69,5 +69,6 @@ I streamline my workflow using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50px" title="PyCharm" alt="PyCharm icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50px" title="Android Studio" alt="Android Studio icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="50px" title="Xcode" alt="Xcode icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" title="Postman" alt="Postman icon" />
 </div>
 
