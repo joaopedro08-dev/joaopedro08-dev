@@ -50,6 +50,13 @@ My go-to frameworks for scalable applications:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50px" title="Flutter" alt="Flutter icon" />
 </div>
 
+#### 🔗 APIs & Communication
+I design and consume APIs focused on performance, scalability, and clean architecture.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50px" title="GraphQL" alt="GraphQL icon"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" title="REST APIs" alt="REST API"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring Boot APIs" alt="Spring Boot"/> 
+</div>
 
 #### 🗄️ Databases
 I manage data efficiently with:  
@@ -70,5 +77,6 @@ I streamline my workflow using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50px" title="Android Studio" alt="Android Studio icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="50px" title="Xcode" alt="Xcode icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" title="Postman" alt="Postman icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50px" title="Docker" alt="Docker icon" />        
 </div>
 
