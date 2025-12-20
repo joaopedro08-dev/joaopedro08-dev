@@ -41,7 +41,6 @@ My go-to frameworks for scalable applications:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px" title="Angular" alt="Angular icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="50px" title="Ionic" alt="Ionic icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" width="50px" title="Capacitor" alt="Capacitor icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring" alt="Spring icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50px" title="Firebase" alt="Firebase icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" title="Node.js" alt="Node.js icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" title="TailwindCSS" alt="TailwindCSS icon"/>
@@ -54,8 +53,7 @@ My go-to frameworks for scalable applications:
 I design and consume APIs focused on performance, scalability, and clean architecture.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50px" title="GraphQL" alt="GraphQL icon"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" title="REST APIs" alt="REST API"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring Boot APIs" alt="Spring Boot"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring" alt="Spring icon"/>
 </div>
 
 #### 🗄️ Databases
