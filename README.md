@@ -54,6 +54,7 @@ I design and consume APIs focused on performance, scalability, and clean archite
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50px" title="GraphQL" alt="GraphQL icon"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring" alt="Spring icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50px" title="FastAPI" alt="FastAPI icon" />
 </div>
 
 #### 🗄️ Databases
