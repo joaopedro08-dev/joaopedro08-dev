@@ -39,6 +39,7 @@ My go-to frameworks for scalable applications:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" title="NextJS" alt="NextJS icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" title="Laravel" alt="Laravel icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px" title="Angular" alt="Angular icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50px" title="Vue.js" alt="Vuejs icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="50px" title="Ionic" alt="Ionic icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" width="50px" title="Capacitor" alt="Capacitor icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50px" title="Firebase" alt="Firebase icon"/>
