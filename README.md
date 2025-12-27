@@ -4,16 +4,10 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&theme=dark&show_icons=true" alt="João Pedro's GitHub Stats" height="180px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="180px"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=dark" alt="streak" height="170" />
+</p>
 
 ---
 
