@@ -4,10 +4,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=dark" alt="streak" height="170" />
-</p>
+![Metrics](https://metrics.lecoq.io/joaopedro08-dev)
 
 ---
 
