@@ -4,7 +4,9 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/joaopedro08-dev)
+<p align="center">
+  <img src="https://metrics.lecoq.io/joaopedro08-dev?template=classic&base=header%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="100%">
+</p>
 
 ---
 
@@ -69,4 +71,3 @@ I streamline my workflow using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" title="Postman" alt="Postman icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50px" title="Docker" alt="Docker icon" />        
 </div>
-
