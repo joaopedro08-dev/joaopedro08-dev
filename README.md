@@ -5,7 +5,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/joaopedro08-dev?template=classic&base=header%2C%20repositories&languages=1&languages.limit=6&config.timezone=America%2FSao_Paulo" width="80%">
+  <img src="https://metrics.lecoq.io/joaopedro08-dev?template=classic&base=header%2C%20repositories&languages=1&languages.limit=6&config.timezone=America%2FSao_Paulo" width="100%">
 </p>
 
 ---
