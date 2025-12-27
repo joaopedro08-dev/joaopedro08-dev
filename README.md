@@ -8,8 +8,9 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&theme=tokyonight&langs_count=7" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=tokyonight" width="97%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/streak-stats/?user=joaopedro08-dev&theme=tokyonight" width="97%" alt="Streak Stats" />
 </p>
 
 ---
