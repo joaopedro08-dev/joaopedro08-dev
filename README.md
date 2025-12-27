@@ -5,11 +5,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://metrics.lecoq.io/joaopedro08-dev?template=classic&base=header%2C%20repositories&languages=1&languages.details=percentage&languages.limit=6&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
