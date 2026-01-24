@@ -16,7 +16,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ---
 
-### 🚀 Skills & Specialties
+## 🚀 Skills & Specialties
 
 #### 🌐 Web Development (Frontend)
 *Building responsive and interactive user interfaces.*
