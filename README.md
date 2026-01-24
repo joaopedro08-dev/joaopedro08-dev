@@ -4,14 +4,15 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react" alt="Linguagens mais usadas" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=react&hide_border=true" alt="Streak de contribuições" />
+</div>
 
 ---
 
