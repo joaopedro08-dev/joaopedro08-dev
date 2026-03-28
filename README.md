@@ -44,6 +44,12 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="45px" title="Xcode"/>
 </div>
 
+#### 🖥️ Desktop Development
+*Building cross-platform desktop applications.*
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="45px" title="Tauri"/>
+</div>
+
 #### 🖥️ Backend & APIs
 *Designing scalable server-side logic and robust APIs.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -56,6 +62,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45px" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45px" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="45px" title="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45px" title="Rust"/>
 </div>
 
 #### 🗄️ Databases & Cloud
