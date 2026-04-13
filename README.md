@@ -5,8 +5,8 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-joaopedro08-dev.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-joaopedro08-dev.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react" />
 </div>
 
 <div align="center">
