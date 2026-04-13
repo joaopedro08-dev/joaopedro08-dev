@@ -2,6 +2,17 @@
 
 I'm a Brazilian developer passionate about crafting technology solutions that make life easier, with a focus on intuitive interfaces and efficient systems.
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dala-dea-mello-3266003a3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jpddm.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.p.mello.dev@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=joaopedro08-dev&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -13,6 +24,16 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <br />
   <img src="https://streak-stats.demolab.com/?user=joaopedro08-dev&theme=react&hide_border=true" alt="Streak de contribuições" />
 </div>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno) | Full-stack school management system developed as TCC — includes frontend, backend and intro page | React · TypeScript · Java · Spring Boot · Ionic · Tailwind · JWT |
+| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend) | E-commerce platform with modern UI, GraphQL integration and desktop app via Tauri | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI |
+| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security |
 
 ---
 
