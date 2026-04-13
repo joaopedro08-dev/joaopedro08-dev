@@ -7,7 +7,6 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dala-dea-mello-3266003a3/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jpddm.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.p.mello.dev@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=joaopedro08-dev&color=blue&style=for-the-badge)
 
 </div>
 
