@@ -5,13 +5,13 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react&cache_seconds=1800" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro08-dev&theme=react&hide_border=true" alt="Streak de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=joaopedro08-dev&theme=react&hide_border=true" alt="Streak de contribuições" />
 </div>
 
 ---
@@ -72,6 +72,9 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45px" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45px" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45px" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" width="45px" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45px" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45px" title="Azure"/>
 </div>
 
 #### 🛠️ DevTools & Workflow
