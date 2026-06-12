@@ -1,6 +1,7 @@
-## 👋 Hello! I'm João Pedro
+## João Pedro · Full-Stack & Mobile Developer
 
-I'm a Brazilian developer passionate about crafting technology solutions that make life easier, with a focus on intuitive interfaces and efficient systems.
+Building cross-platform products with Java, JavaScript and React.
+Currently focused on Spring Boot APIs and clean architecture.
 
 <div align="center">
 
@@ -10,9 +11,15 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 </div>
 
+## Currently
+
+- Studying **Clean Code** (Robert C. Martin) and applying it in a simple CRUD API, using the methods from the book
+- Exploring REST API design patterns and JPA relationships
+- Developing mobile apps for testing using the combination of CapacitorJS and Next.js
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-sand-82.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
@@ -26,20 +33,20 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-| Project                                                                       | Description                                                                                      | Stack                                                             | Status                                     |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------ |
-| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno)            | Full-stack school management system developed as TCC — includes frontend, backend and intro page | React · TypeScript · Java · Spring Boot · Ionic · Tailwind · JWT  | ✅ Finished                                 |
-| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend)                  | E-commerce platform with modern UI, GraphQL integration and desktop app via Tauri                | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI     | 🟡 In Progress (≈ Planned Scope Completed) |
-| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL                                    | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security | ✅ Finished                                 |
+| Project | Description | Stack | Status | Demo |
+| --- | --- | --- | --- | --- |
+| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno) | Full-stack school management system developed as TCC | React · TypeScript · Spring Boot · Ionic · Tailwind · JWT | ✅ Finished | — |
+| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend) | E-commerce platform with GraphQL integration and desktop app via Tauri | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI | 🟡 In Progress | [Preview](https://atelie-ecommerce.vercel.app/signin) |
+| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security | ✅ Finished | — |
 
 
 ---
 
-## 🚀 Skills & Specialties
+## Skills & Specialties
 
-#### 🌐 Web Development (Frontend)
+#### Web Development (Frontend)
 *Building responsive and interactive user interfaces.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" title="HTML5"/>
@@ -54,7 +61,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45px" title="Bootstrap"/>
 </div>
 
-#### 📱 Mobile Development
+#### Mobile Development
 *Crafting cross-platform and native mobile experiences.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="45px" title="Ionic"/>
@@ -63,13 +70,13 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="45px" title="Xcode"/>
 </div>
 
-#### 🖥️ Desktop Development
+#### Desktop Development
 *Building cross-platform desktop applications.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="45px" title="Tauri"/>
 </div>
 
-#### 🖥️ Backend & APIs
+#### Backend & APIs
 *Designing scalable server-side logic and robust APIs.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45px" title="PHP"/>
@@ -83,7 +90,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="45px" title="GraphQL"/>
 </div>
 
-#### 🗄️ Databases & Cloud
+#### Databases & Cloud
 *Managing data and cloud-based infrastructures.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px" title="MySQL"/>
@@ -93,7 +100,7 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" width="45px" title="SQLite"/>
 </div>
 
-#### 🛠️ DevTools & Workflow
+#### DevTools & Workflow
 *Tools that streamline my daily development.*
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" title="Git"/>
