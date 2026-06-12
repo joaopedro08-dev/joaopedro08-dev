@@ -28,11 +28,12 @@ I'm a Brazilian developer passionate about crafting technology solutions that ma
 
 ## 🔥 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno) | Full-stack school management system developed as TCC — includes frontend, backend and intro page | React · TypeScript · Java · Spring Boot · Ionic · Tailwind · JWT |
-| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend) | E-commerce platform with modern UI, GraphQL integration and desktop app via Tauri | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI |
-| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security |
+| Project                                                                       | Description                                                                                      | Stack                                                             | Status                                     |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------ |
+| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno)            | Full-stack school management system developed as TCC — includes frontend, backend and intro page | React · TypeScript · Java · Spring Boot · Ionic · Tailwind · JWT  | ✅ Finished                                 |
+| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend)                  | E-commerce platform with modern UI, GraphQL integration and desktop app via Tauri                | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI     | 🟡 In Progress (≈ Planned Scope Completed) |
+| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL                                    | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security | ✅ Finished                                 |
+
 
 ---
 
