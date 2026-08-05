@@ -11,12 +11,6 @@ Currently focused on Spring Boot APIs and clean architecture.
 
 </div>
 
-## Currently
-
-- Studying **Clean Code** (Robert C. Martin) and applying it in a simple CRUD API, using the methods from the book
-- Exploring REST API design patterns and JPA relationships
-- Developing mobile apps for testing using the combination of CapacitorJS and Next.js
-
 ---
 
 ## GitHub Stats
