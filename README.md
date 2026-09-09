@@ -13,11 +13,24 @@ Currently focused on Spring Boot APIs and clean architecture.
 
 ---
 
+## Table of Contents
+
+- [GitHub Stats](#github-stats)
+- [Featured Projects](#featured-projects)
+- [Skills & Specialties](#skills--specialties)
+  - [Web Development](#web-development-frontend)
+  - [Mobile Development](#mobile-development)
+  - [Backend & APIs](#backend--apis)
+  - [Databases & Cloud](#databases--cloud)
+  - [DevTools & Workflow](#devtools--workflow)
+
+---
+
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-sand-82.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-eight-sand-82.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro08-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro08-dev&layout=compact&langs_count=7&theme=react&cache_seconds=1800" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
@@ -63,12 +76,6 @@ Currently focused on Spring Boot APIs and clean architecture.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" width="45px" title="Capacitor"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45px" title="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="45px" title="Xcode"/>
-</div>
-
-#### Desktop Development
-*Building cross-platform desktop applications.*
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="45px" title="Tauri"/>
 </div>
 
 #### Backend & APIs
