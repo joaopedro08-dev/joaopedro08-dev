@@ -31,10 +31,11 @@ Currently focused on Spring Boot APIs and clean architecture.
 
 | Project | Description | Stack | Status | Demo |
 | --- | --- | --- | --- | --- |
-| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno) | Full-stack school management system developed as TCC | React · TypeScript · Spring Boot · Ionic · Tailwind · JWT | ✅ Finished | — |
-| [Atelie](https://github.com/joaopedro08-dev/Atelie-Frontend) | E-commerce platform with GraphQL integration and desktop app via Tauri | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI | 🟡 In Progress | [Preview](https://atelie-ecommerce.vercel.app/signin) |
-| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security | ✅ Finished | — |
+| [SigaAluno](https://github.com/joaopedro08-dev/Frontend-SigaAluno) | Full-stack school management system developed as TCC | React · TypeScript · Spring Boot · Ionic · Tailwind · JWT | ✅ Finished | [Live](https://system-sigaaluno.vercel.app) |
+| [Ateliê](https://github.com/joaopedro08-dev/Atelie-Frontend) | Intelligent management ecosystem for orders, clients and users, with a desktop build via Tauri | Next.js · TypeScript · GraphQL · Tauri · Tailwind · Shadcn UI | 🟢 Operational | [Live](https://atelie-ecommerce.vercel.app/signin) |
+| [Authentication-Java](https://github.com/joaopedro08-dev/Authentication-Java) | Secure auth API with Spring Boot, GraphQL, JWT and PostgreSQL | Java · Spring Boot · GraphQL · PostgreSQL · JWT · Spring Security | ✅ Finished | [Live](https://authentication-java.onrender.com/graphql) |
 
+> Status reflects what's currently published on each repository (badges, deploy, and README), not just local progress.
 
 ---
 
